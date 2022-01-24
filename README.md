@@ -8,7 +8,7 @@ Click demo to try it by yourself!
 ## Facebook Clone Demo Link
 
 You can view the site here
-[Click Me](facebook-clone-b8231.firebaseapp.com)
+[Click Me](http://localhost:3000/)
 
 ## Topics
 
